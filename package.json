@@ -1,0 +1,23 @@
+{
+  "name": "websiteApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express4-tedious": "^0.3.0",
+    "jest": "^26.1.0",
+    "log4js": "^6.3.0",
+    "morgan": "^1.10.0",
+    "tedious": "^8.3.0",
+    "tedious-connection-pool": "^1.0.5",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,21 @@
+{
+  "development":{
+    "db":{
+      "server":"localhost",
+      "authentication":{
+        "type":"default",
+        "options":{
+          "userName":"read",
+          "password":"heaven0711"
+        },
+        "database":"tempo"
+      }
+    },
+    "poolConfig" : {
+        "min": 5,
+        "max": 10,
+        "log": false,
+        "idleTimeout":700000
+    }
+  }
+}

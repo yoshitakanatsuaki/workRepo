@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/98e30ab7-ccd6-44d6-b06b-ccb8901d5561/resourceGroups/rg-smartlaundry-dev-001/providers/Microsoft.Web/sites/websiteapps",
+    "appService.deploySubpath": "."
+}
